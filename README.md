@@ -1,11 +1,5 @@
 # DIALECT — Intelligent Debate Matchmaking & Skill-Adaptive Learning Platform
 
-> A full-stack debate platform that combines real-time communication, adaptive matchmaking, and AI-powered feedback to help users improve their public speaking and argumentation skills.
-
-**Developed at NIT Warangal (Software Engineering Project, 2025–26)**
-
----
-
 ## Overview
 
 DIALECT is an interactive debate platform designed to address two common barriers to public speaking:
